@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETL TELECOM COMPANY", "ETL TELECOM COMPANY.dtproj", "{AD13B6D8-B26E-43B5-ACA6-50EE1F009869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD13B6D8-B26E-43B5-ACA6-50EE1F009869}.Development|Default.ActiveCfg = Development
+		{AD13B6D8-B26E-43B5-ACA6-50EE1F009869}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA45C6F-39EE-4A4C-B665-7EE735CAA3D1}
+	EndGlobalSection
+EndGlobal
