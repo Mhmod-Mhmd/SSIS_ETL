@@ -22,8 +22,3 @@ Easy Integration with SQL Server: Since SSIS is natively integrated with SQL Ser
 Save Time and Resources: By utilizing our SSIS_ETL packages, you can significantly reduce development time and focus on delivering insights rather than wrestling with complex ETL code.
 
 Data Quality Assurance: The SSIS_ETL packages include data cleansing and validation routines, ensuring that your data is accurate, consistent, and ready for analysis.
-
-Community-Driven Innovation: We believe in the power of collaboration. Join our community of data enthusiasts, where we continuously update and improve the SSIS_ETL repository based on feedback and new industry standards.
-
-📦 Get Started 📦
-Ready to streamline your data integration process? Simply clone this repository, and you'll gain access to a treasure trove of SSIS packages ready to be deployed and customized to meet your unique data needs.
